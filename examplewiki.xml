@@ -1,0 +1,22 @@
+<xml>
+    <page>
+        <title>P1</title>
+        <id>10</id>
+        <text>
+            Hmapqn iajinsjj oiaj
+            bsoayn ksn jhsb
+            inside outside
+            backyard
+        </text>
+    </page>
+    <page>
+        <title>P2</title>
+        <id>20</id>
+        <text> 
+            inside
+            [[P1]]
+            outside
+        </text>
+    </page>
+</xml>
+        
